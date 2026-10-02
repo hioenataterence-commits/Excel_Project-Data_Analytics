@@ -1,13 +1,36 @@
 # 📊 Excel for Data Analytics
 
-My notes, practice files, and exercises while learning Excel for Data Analytics.
+This repository contains my practice files and projects while learning Excel for Data Analytics.
+
+## Projects
+
+Here are some of the projects I have completed as part of my learning journey:
+- 📊 [**Project 1 — Dashboard**](https://github.com/hioenataterence-commits/Excel_Project-Data_Analytics/tree/main/Project_1-Dashboard)
+- 📈 [**Project 2 — Analysis**](https://github.com/hioenataterence-commits/Excel_Project-Data_Analytics/tree/main/Project_2-Analysis)
+
+## 🎯 Learning Priorities
+
+My focus is on developing practical Excel skills that can be applied to real-world data analysis.
+
+### Core Focus
+- Excel Fundamentals — navigation, formatting, tables, and efficient workflows
+- Formulas & Functions — logical, lookup, text, date, mathematical, and statistical functions
+- Data Cleaning & Preparation — organizing, cleaning, and preparing datasets for analysis
+- Data Analysis — using Pivot Tables, filtering, sorting, and calculations to identify insights
+- Data Visualization — creating clear and effective charts to communicate findings
+- Power Query — transforming and preparing data efficiently
+  
+### Long-Term Development
+- Power Pivot
+- DAX
+- Data Modeling
+
+The goal is to build a strong foundation in Excel for data analysis and gradually develop more advanced skills as I progress.
+
 
 ## Table of Contents
 
 ### [Course Problem Workbooks](/0_Resources/Problems/)
-
-- The Workbooks to solve practice problems
-    - [Purchase the problems here](https://lukebarousse.com/excel)
 
 ### [Chapter 1: Spreadsheets_Intro](/1_Spreadsheets_Intro/)
 - Worksheets
@@ -55,22 +78,3 @@ My notes, practice files, and exercises while learning Excel for Data Analytics.
 - Power Pivot
 - Power Pivot DAX
 - Power Pivot Data Models
-
-## 🎯 Learning Priorities
-
-My focus is on developing practical Excel skills that can be applied to real-world data analysis.
-
-### Core Focus
-- Excel Fundamentals — navigation, formatting, tables, and efficient workflows
-- Formulas & Functions — logical, lookup, text, date, mathematical, and statistical functions
-- Data Cleaning & Preparation — organizing, cleaning, and preparing datasets for analysis
-- Data Analysis — using Pivot Tables, filtering, sorting, and calculations to identify insights
-- Data Visualization — creating clear and effective charts to communicate findings
-- Power Query — transforming and preparing data efficiently
-  
-### Long-Term Development
-- Power Pivot
-- DAX
-- Data Modeling
-
-The goal is to build a strong foundation in Excel for data analysis and gradually develop more advanced skills as I progress.
