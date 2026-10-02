@@ -1,12 +1,6 @@
-# 📊 Excel for Data Analytics - Full Course
+# 📊 Excel for Data Analytics
 
-Data Nerds! This repo contains all the Excel files needed to follow along course: [Excel for Data Analytics](https://lukebarousse.com/excel)
-
-[![Excel for Data Analytics](0_Resources/Images/Excel_Data_Analytics_v2.png)](https://youtu.be/pCJ15nGFgVg)
-## Team Members 👥
-**🙋🏼‍♂️ Course Leader:** [Luke Barousse](https://www.linkedin.com/in/luke-b)  
-**🎬 Course Producer:** [Kelly Adams](https://www.linkedin.com/in/kellyjianadams)  
-**📺 Video Editor:** [Brannon Linder](https://www.linkedin.com/in/brannonlinder)
+My notes, practice files, and exercises while learning Excel for Data Analytics.
 
 ## Table of Contents
 
@@ -62,8 +56,21 @@ Data Nerds! This repo contains all the Excel files needed to follow along course
 - Power Pivot DAX
 - Power Pivot Data Models
 
-## Found a Typo? Want to Contribute?
-- If you find an error in this repo, please feel free to make a pull request by:
-    - Forking the repo
-    - Making any changes
-    - Submitting a pull request
+## 🎯 Learning Priorities
+
+My focus is on developing practical Excel skills that can be applied to real-world data analysis.
+
+### Core Focus
+- Excel Fundamentals — navigation, formatting, tables, and efficient workflows
+- Formulas & Functions — logical, lookup, text, date, mathematical, and statistical functions
+- Data Cleaning & Preparation — organizing, cleaning, and preparing datasets for analysis
+- Data Analysis — using Pivot Tables, filtering, sorting, and calculations to identify insights
+- Data Visualization — creating clear and effective charts to communicate findings
+- Power Query — transforming and preparing data efficiently
+  
+### Long-Term Development
+- Power Pivot
+- DAX
+- Data Modeling
+
+The goal is to build a strong foundation in Excel for data analysis and gradually develop more advanced skills as I progress.
